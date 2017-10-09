@@ -16,6 +16,7 @@ learning path to become a fullstack devops egineer
 ### Kubernetes
 
 * [Hobby Kube](https://github.com/hobby-kube/guide)
+* [Development Environments Microservices](https://www.datawire.io/guide/development/development-environments-microservices/)
 
 # Books
 
