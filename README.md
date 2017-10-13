@@ -22,6 +22,10 @@ learning path to become a fullstack devops egineer
 
 ## Infrastructure
 
+### Development workflow
+
+- TBD (trunk based development)? Git workflow?
+
 ### CI + CD
 
 - What is CI & CD?
