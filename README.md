@@ -1,6 +1,13 @@
 # fullstack-devops-path
 learning path to become a fullstack devops egineer
 
+# Architecture
+
+- REST
+- Microservices
+- [Self-Contained Systems](http://scs-architecture.org/) - ASSEMBLING SOFTWARE FROM INDEPENDENT SYSTEMS
+- 
+
 # Technologies
 
 ## Backend
