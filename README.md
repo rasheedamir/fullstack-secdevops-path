@@ -42,6 +42,8 @@ learning path to become a fullstack devops egineer
 
 ### Docker
 
+- [Docker fo Java Developers](https://htmlpreview.github.io/?https://github.com/redhat-developer-demos/docker-java/blob/devnexus2017/readme.html)
+
 ### Kubernetes
 
 * [Hobby Kube](https://github.com/hobby-kube/guide)
