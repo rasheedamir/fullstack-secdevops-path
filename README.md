@@ -46,6 +46,7 @@ learning path to become a fullstack devops egineer
 
 ### Kubernetes
 
+* [8 Steps to Becoming Awesome with Kubernetes](https://docs.google.com/presentation/d/1ij64THksTygvifW5BD-n0ipc6MDF4cGBRQcV3BRYaoM/edit?_lrsc=927c6920-c737-4468-89b4-ddd9e2baa7b9&sc_cid=70160000000KGB4AAO#slide=id.g278b81b176_0_613)
 * [Hobby Kube](https://github.com/hobby-kube/guide)
 * [Development Environments Microservices](https://www.datawire.io/guide/development/development-environments-microservices/)
 
