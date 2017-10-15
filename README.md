@@ -6,7 +6,6 @@ learning path to become a fullstack devops egineer
 - REST
 - Microservices
 - [Self-Contained Systems](http://scs-architecture.org/) - ASSEMBLING SOFTWARE FROM INDEPENDENT SYSTEMS
-- 
 
 # Technologies
 
