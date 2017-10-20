@@ -1,6 +1,10 @@
 # fullstack-devops-path
 learning path to become a fullstack devops egineer
 
+# Mantra
+
+- [Think It! Build It! Ship It! Tweak It!](https://vimeo.com/94950270)
+
 # Architecture
 
 - REST
