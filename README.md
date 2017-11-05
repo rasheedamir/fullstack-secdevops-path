@@ -64,6 +64,8 @@ learning path to become a fullstack devops egineer
 
 * Succeeding with Agile: Software Development Using Scrum
 * The DevOps Handbook - How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+* Clean Code A Handbook of Agile Software Craftsmanship
+* Effective Java
 
 # Blogs
 
