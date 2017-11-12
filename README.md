@@ -63,6 +63,8 @@ learning path to become a fullstack devops egineer
 # Gitbooks
 
 - [Microservices Best Practices for Java](https://cnjunq.gitbooks.io/microservices-best-practices-for-java); downloadable from here: https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf
+- [Java for Small Teams](https://ncrcoe.gitbooks.io/java-for-small-teams/content/)
+
 
 # Books
 
