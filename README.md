@@ -60,6 +60,10 @@ learning path to become a fullstack devops egineer
 - How does a best practices based VPC architecture looks like?
 - What services of AWS have you used? And why have you used them?
 
+# Gitbooks
+
+- [Microservices Best Practices for Java](https://cnjunq.gitbooks.io/microservices-best-practices-for-java)
+
 # Books
 
 * Succeeding with Agile: Software Development Using Scrum
