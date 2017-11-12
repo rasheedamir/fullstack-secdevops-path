@@ -30,6 +30,8 @@ learning path to become a fullstack devops egineer
 
 ## Frontend Mobile
 
+- [React Native Training](https://unbug.gitbooks.io/react-native-training/content/)
+
 ## Infrastructure
 
 ### Development workflow
