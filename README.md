@@ -87,3 +87,9 @@ learning path to become a fullstack devops egineer
 # Videos
 
 * [Easily secure your Front and back applications with KeyCloak](https://www.youtube.com/watch?v=RGp4HUKikts)
+
+---
+
+* [Design Patterns Handbook](https://ondrej-kvasnovsky.gitbooks.io/design-patterns-handbook/content/)
+* [Modern Java - A Guide to Java 8](https://wizardforcel.gitbooks.io/modern-java-a-guide-to-java8/content/)
+* [Java 9 Microservices for Developers](https://andreluisdias.gitbooks.io/java-9-microservices-for-developers/content/)
