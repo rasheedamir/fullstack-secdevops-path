@@ -11,6 +11,7 @@ learning path to become a fullstack devops egineer
 - Microservices
 - [Self-Contained Systems](http://scs-architecture.org/) - ASSEMBLING SOFTWARE FROM INDEPENDENT SYSTEMS
 - [Must Read - Technical Service Requirements](https://github.com/stakater/technical-service-requirements)
+- [Must Read - Security Guide for Developers](https://github.com/stakater/security-guide-for-developers)
 
 # Technologies
 
