@@ -7,7 +7,12 @@ learning path to become a fullstack devops egineer
 
 # Architecture
 
-- REST
+## REST
+
+Read these:
+
+- [REST API Design Rule Book](https://doc.lagout.org/programmation/Webservers/REST%20API%20Design%20Rulebook%20-%20Masse%20-%20O%27Reilly%20%282012%29/REST%20API%20Design%20Rulebook%20-%20Masse%20-%20O%27Reilly%20%282012%29.pdf)
+
 - Microservices
 - [Self-Contained Systems](http://scs-architecture.org/) - ASSEMBLING SOFTWARE FROM INDEPENDENT SYSTEMS
 - [Must Read - Technical Service Requirements](https://github.com/stakater/technical-service-requirements)
