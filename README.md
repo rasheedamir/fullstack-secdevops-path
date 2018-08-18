@@ -31,7 +31,19 @@ Read these:
 - Have you integrated with other external systems?
 - What are 12 factor apps?
 
+## Spring
+
+### Books
+
+- [Spring Microservices In Action](https://www.manning.com/books/spring-microservices-in-action)
+
+## Java
+
+## RxJava
+
 # Frontend Web
+
+## RxJs
 
 ## Angular
 
