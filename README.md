@@ -36,6 +36,7 @@ Read these:
 ### Books
 
 - [Spring Microservices In Action](https://www.manning.com/books/spring-microservices-in-action)
+- [Spring Boot in Action](https://www.manning.com/books/spring-boot-in-action)
 
 ## Java
 
