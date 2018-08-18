@@ -1,5 +1,5 @@
-# fullstack-devops-path
-learning path to become a fullstack devops egineer
+# fullstack-secdevops-path
+learning path to become a fullstack secdevops egineer
 
 # Mantra
 
@@ -35,11 +35,29 @@ Read these:
 
 ## Frontend Web
 
+### Angular
+
 - https://www.gitbook.com/book/rangle-io/ngcourse2/details
+
+### React
+
+
+### Redux
+
 
 ## Frontend Mobile
 
 - [React Native Training](https://unbug.gitbooks.io/react-native-training/content/)
+
+## Middleware
+
+### Kafka
+
+#### Books
+
+- [Kafka: The Definitive Guide](https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/)
+
+### Hazelcast
 
 ## Infrastructure
 
