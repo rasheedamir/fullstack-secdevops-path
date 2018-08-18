@@ -18,9 +18,7 @@ Read these:
 - [Must Read - Technical Service Requirements](https://github.com/stakater/technical-service-requirements)
 - [Must Read - Security Guide for Developers](https://github.com/stakater/security-guide-for-developers)
 
-# Technologies
-
-## Backend
+# Backend
 
 - What is Microservices API Gateway architecture? Have you used one? For what purpose?
 - Do you have experience with lightweight Java containers such as Wildfly Swarm or Spring Boot?
@@ -33,39 +31,39 @@ Read these:
 - Have you integrated with other external systems?
 - What are 12 factor apps?
 
-## Frontend Web
+# Frontend Web
 
-### Angular
+## Angular
 
 - https://www.gitbook.com/book/rangle-io/ngcourse2/details
 
-### React
+## React
 
 
-### Redux
+## Redux
 
 
-## Frontend Mobile
+# Frontend Mobile
 
 - [React Native Training](https://unbug.gitbooks.io/react-native-training/content/)
 
-## Middleware
+# Middleware
 
-### Kafka
+## Kafka
 
-#### Books
+### Books
 
 - [Kafka: The Definitive Guide](https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/)
 
-### Hazelcast
+## Hazelcast
 
-## Infrastructure
+# Infrastructure
 
-### Development workflow
+## Development workflow
 
 - TBD (trunk based development)? Git workflow?
 
-### CI + CD
+## CI + CD
 
 - What is CI & CD?
 - What are the challenges in releasing stateless & stateful apps? How does BG work in case of stateful apps?
@@ -73,11 +71,11 @@ Read these:
 - How did the pipeline look like?
 - How did you use docker containers?
 
-### Docker
+## Docker
 
 - [Docker fo Java Developers](https://htmlpreview.github.io/?https://github.com/redhat-developer-demos/docker-java/blob/devnexus2017/readme.html)
 
-### Kubernetes
+## Kubernetes
 
 * [Kubernetes for Java developers](https://www.youtube.com/watch?v=_vM3ORa9_JE&feature=youtu.be)
 * [8 Steps to Becoming Awesome with Kubernetes](https://docs.google.com/presentation/d/1ij64THksTygvifW5BD-n0ipc6MDF4cGBRQcV3BRYaoM/edit?_lrsc=927c6920-c737-4468-89b4-ddd9e2baa7b9&sc_cid=70160000000KGB4AAO#slide=id.g278b81b176_0_613)
@@ -85,7 +83,7 @@ Read these:
 * [Development Environments Microservices](https://www.datawire.io/guide/development/development-environments-microservices/)
 * https://ramitsurana.gitbooks.io/awesome-kubernetes/content/
 
-### AWS
+## AWS
 
 - How does a best practices based VPC architecture looks like?
 - What services of AWS have you used? And why have you used them?
@@ -94,7 +92,6 @@ Read these:
 
 - [Microservices Best Practices for Java](https://cnjunq.gitbooks.io/microservices-best-practices-for-java); downloadable from here: https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf
 - [Java for Small Teams](https://ncrcoe.gitbooks.io/java-for-small-teams/content/)
-
 
 # Books
 
